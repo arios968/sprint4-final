@@ -1,0 +1,86 @@
+.cart-btn + ol {
+  position: absolute;
+  display: none;
+  margin-left: -7rem;
+}
+
+.cart-btn:hover + ol {
+  display: block;
+}
+
+.pointer-none{
+    pointer-events: none;
+}
+
+.home{
+    padding:2rem 9%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+   
+
+}
+
+.home .image {
+  flex: 1 1 40rem;
+  padding-top: 5rem;
+      
+}
+
+.home .image img{
+    width: 100%;
+}
+
+.home .content{
+    flex: 1 1 40rem;
+    
+}
+.home .content{
+    text-align: center;
+}
+
+.home .content span{
+    font-size: 3rem;
+    color: #666;
+}
+
+.home .content h3{
+    font-size: 5rem;
+    color: #000000;
+}
+
+.home.content h3{
+    font-size: 4rem;
+}
+
+.section{
+    padding: 2rem;
+}
+
+.banner-container{
+    display: flex;
+    flex-wrap: wrap ;
+    gap: 1.5rem;
+    justify-content: center;
+}
+
+.banner-container.banner{
+    flex: 1 1 40rem;
+    height: 25rem;
+    overflow: hidden;
+    position: relative;
+}
+
+.banner-container.banner img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.barra{
+    display: flex;
+    justify-content: space-evenly;
+}
+button{
+    border-radius: 15px;
+}

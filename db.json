@@ -1,0 +1,202 @@
+{
+  "buy": [
+    [
+      {
+        "id": 2,
+        "img": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750302043007L.jpg",
+        "type": "Lácteos",
+        "name": "queso cheddar",
+        "weight": "4kg",
+        "priceNow": 2050,
+        "priceOld": 2300,
+        "isFavorite": false,
+        "isToBuy": true,
+        "itemsToBuy": 1
+      },
+      {
+        "id": 5,
+        "img": "https://www.delipavo.com/wp-content/uploads/2022/04/como-hacen-las-salchichas-de-pavo.jpg",
+        "type": "Embutidos",
+        "name": "Salchicha de pavo",
+        "weight": "100gr",
+        "priceNow": 20500,
+        "priceOld": 30000,
+        "isFavorite": false,
+        "isToBuy": true,
+        "itemsToBuy": 1
+      },
+      {
+        "id": 7,
+        "img": "https://cdn.shopify.com/s/files/1/0492/2458/1274/products/supermercados_la_vaquita_supervaquita_lasagna_zenu_320gr_mixta_congelados_512x512.jpg?v=1620493188",
+        "type": "Pastas",
+        "name": "lasagna mixta",
+        "weight": "1kg",
+        "priceNow": 6500,
+        "priceOld": 11000,
+        "isFavorite": false,
+        "isToBuy": true,
+        "itemsToBuy": 1
+      }
+    ],
+    [
+      {
+        "id": 2,
+        "img": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750302043007L.jpg",
+        "type": "Lácteos",
+        "name": "queso cheddar",
+        "weight": "4kg",
+        "priceNow": 2050,
+        "priceOld": 2300,
+        "isFavorite": false,
+        "isToBuy": true,
+        "itemsToBuy": 2
+      },
+      {
+        "id": 5,
+        "img": "https://www.delipavo.com/wp-content/uploads/2022/04/como-hacen-las-salchichas-de-pavo.jpg",
+        "type": "Embutidos",
+        "name": "Salchicha de pavo",
+        "weight": "100gr",
+        "priceNow": 20500,
+        "priceOld": 30000,
+        "isFavorite": false,
+        "isToBuy": true,
+        "itemsToBuy": 1
+      },
+      {
+        "id": 7,
+        "img": "https://cdn.shopify.com/s/files/1/0492/2458/1274/products/supermercados_la_vaquita_supervaquita_lasagna_zenu_320gr_mixta_congelados_512x512.jpg?v=1620493188",
+        "type": "Pastas",
+        "name": "lasagna mixta",
+        "weight": "1kg",
+        "priceNow": 6500,
+        "priceOld": 11000,
+        "isFavorite": false,
+        "isToBuy": true,
+        "itemsToBuy": 1
+      }
+    ]
+  ],
+  "products": [
+    {
+      "id": 1,
+      "img": "https://www.levapan.com.ec/wp-content/uploads/2018/01/maicena.jpg",
+      "type": "Harinas",
+      "name": "Maizena",
+      "weight": "1kg",
+      "priceNow": 400,
+      "priceOld": 450,
+      "isFavorite": true,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    },
+    {
+      "id": 2,
+      "img": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750302043007L.jpg",
+      "type": "Lácteos",
+      "name": "queso cheddar",
+      "weight": "4kg",
+      "priceNow": 2050,
+      "priceOld": 2300,
+      "isFavorite": false,
+      "isToBuy": true,
+      "itemsToBuy": 2
+    },
+    {
+      "id": 3,
+      "img": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1280/https://stakeholders.com.pe/wp-content/uploads/2022/02/gloria.jpeg",
+      "type": "Lácteos",
+      "name": "Leche",
+      "weight": "1lts",
+      "priceNow": 8500,
+      "priceOld": 16000,
+      "isFavorite": false,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    },
+    {
+      "id": 4,
+      "img": "https://www.tododisca.com/wp-content/uploads/2020/11/Naranjas-Vitamina-C.jpg",
+      "type": "Jugos",
+      "name": "Jugo de Naranja",
+      "weight": "1lts",
+      "priceNow": 3500,
+      "priceOld": 6000,
+      "isFavorite": false,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    },
+    {
+      "id": 5,
+      "img": "https://www.delipavo.com/wp-content/uploads/2022/04/como-hacen-las-salchichas-de-pavo.jpg",
+      "type": "Embutidos",
+      "name": "Salchicha de pavo",
+      "weight": "100gr",
+      "priceNow": 20500,
+      "priceOld": 30000,
+      "isFavorite": false,
+      "isToBuy": true,
+      "itemsToBuy": 1
+    },
+    {
+      "id": 6,
+      "img": "https://cnnespanol.cnn.com/wp-content/uploads/2017/09/160705112136-04-fats-that-can-reduce-your-risk-of-dying-super-169.jpg?quality=100&strip=info",
+      "type": "Lácteos",
+      "name": "Mantequilla",
+      "weight": "1kg",
+      "priceNow": 6000,
+      "priceOld": 19800,
+      "isFavorite": false,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    },
+    {
+      "id": 7,
+      "img": "https://cdn.shopify.com/s/files/1/0492/2458/1274/products/supermercados_la_vaquita_supervaquita_lasagna_zenu_320gr_mixta_congelados_512x512.jpg?v=1620493188",
+      "type": "Pastas",
+      "name": "lasagna mixta",
+      "weight": "1kg",
+      "priceNow": 6500,
+      "priceOld": 11000,
+      "isFavorite": false,
+      "isToBuy": true,
+      "itemsToBuy": 1
+    },
+    {
+      "id": 8,
+      "img": "https://dcom-prod.imgix.net/files/wp-content/uploads/2017/08/1548792834-PastaBlog.png?w=1280&h=720&crop=focalpoint&fp-x=0.5&fp-y=0.1&fit=crop&auto=compress&q=75",
+      "type": "Pastas",
+      "name": "ravioli de carne",
+      "weight": "1kg",
+      "priceNow": 1500,
+      "priceOld": 12500,
+      "isFavorite": false,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    },
+    {
+      "id": 9,
+      "img": "https://exitocol.vtexassets.com/arquivos/ids/5373673/Mortadela-Pollo-X-250g-245125_b.jpg?v=637439179809000000",
+      "type": "Embutidos",
+      "name": "Mortadela de pollo ",
+      "weight": "100gr",
+      "priceNow": 8000,
+      "priceOld": 13500,
+      "isFavorite": false,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    },
+    {
+      "id": 10,
+      "img": "https://http2.mlstatic.com/D_NQ_NP_679292-MCO48069891936_102021-O.webp",
+      "type": "Harinas",
+      "name": "Harina de Trigo",
+      "weight": "100gr",
+      "priceNow": 3000,
+      "priceOld": 5000,
+      "isFavorite": false,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    }
+  ]
+}
